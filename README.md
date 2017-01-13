@@ -1,6 +1,6 @@
 # Simple App Demo with Angular Material
 
-![Angular Material](https://s3.amazonaws.com/coursetro/posts/31-full.png)
+![Angular Material](https://s3.amazonaws.com/coursetro/posts/29-full.png)
 
 Check out a demo here: [AngularFire2 Chat App](https://coursetro.com/preview/angular-material-demo)
 
